@@ -14,4 +14,4 @@ __Docker runs processes in isolated containers. A container is a process which r
 
 __Create a bind mount - Volume (shared filesystems)__
 
-`docker run -p 80:80 -v /Users/kucukmp/Documents/Muttalip/GitHub/education-docker-basics:/var/www/html/ hello-world`
+`docker run -p 80:80 -v /Users/Muttalip/GitHub/education-docker-basics:/var/www/html/ hello-world`
