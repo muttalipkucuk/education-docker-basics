@@ -18,24 +18,24 @@ __Create a bind mount - Volume (shared filesystems)__
 
 __List of Docker commands__
 
-`docker run – Runs a command in a new container.`
+`docker runz – Runs a command in a new container.
 
-`docker start – Starts one or more stopped containers`
+`docker start` – Starts one or more stopped containers
 
-`docker stop – Stops one or more running containers`
+`docker stop` – Stops one or more running containers
 
-`docker build – Builds an image form a Docker file`
+`docker build` – Builds an image form a Docker file
 
-`docker pull – Pulls an image or a repository from a registry`
+`docker pull` – Pulls an image or a repository from a registry
 
-`docker push – Pushes an image or a repository to a registry`
+`docker push` – Pushes an image or a repository to a registry
 
-`docker export – Exports a container’s filesystem as a tar archive`
+`docker export` – Exports a container’s filesystem as a tar archive
 
-`docker exec – Runs a command in a run-time container`
+`docker exec` – Runs a command in a run-time container
 
-`docker search – Searches the Docker Hub for images`
+`docker search` – Searches the Docker Hub for images
 
-`docker attach – Attaches to a running container`
+`docker attach` – Attaches to a running container
 
-`docker commit – Creates a new image from a container’s changes`
+`docker commit` – Creates a new image from a container’s changes
