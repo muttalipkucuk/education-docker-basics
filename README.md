@@ -18,7 +18,7 @@ __Create a bind mount - Volume (shared filesystems)__
 
 __List of Docker commands__
 
-`docker runz – Runs a command in a new container.
+`docker run` – Runs a command in a new container.
 
 `docker start` – Starts one or more stopped containers
 
